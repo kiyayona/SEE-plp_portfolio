@@ -41,6 +41,4 @@ To view this portfolio locally:
 4.  ## Contact
 For inquiries or collaborations, reach out at kiyamichaelmichael1@email.com.
 
-## Contact
 
-For inquiries or collaborations, reach out at yonas.michael@email.com.
